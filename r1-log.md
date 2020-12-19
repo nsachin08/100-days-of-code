@@ -8,6 +8,8 @@ Round 1
   - Solved [Painting Pebbles- 509B](https://codeforces.com/contest/509/problem/B)
   - Thoughts: Find the MIN & MAX from the array . For **NO** ,check difference between min & max they should not excedd more than the K(no. of colours) . Else, simply print (min+1) of same kind in all the lines except the min.
   - 1 question , Project Euler.
+  - solved Travelling salesman problem using BITMASK & DP;
+  - solved [Vasya & Wrestling - 281B](https://codeforces.com/contest/493/problem/B)
 
 
 ### R1D2
