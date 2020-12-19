@@ -5,11 +5,11 @@ The log of my #100DaysOfCode challenge. Started on [December 19 ,2020 ].
 ## Log
 Round 1
 ### R1D1
-  - Solved [Painting Pebbles- 509B](https://codeforces.com/contest/509/problem/B)
+  - Solved [Painting Pebbles- 509B](https://codeforces.com/contest/509/problem/B). Tips: Output a sequence not neccessarily a sequence;
   - Thoughts: Find the MIN & MAX from the array . For **NO** ,check difference between min & max they should not excedd more than the K(no. of colours) . Else, simply print (min+1) of same kind in all the lines except the min.
   - 1 question , Project Euler.
   - solved Travelling salesman problem using BITMASK & DP;
-  - solved [Vasya & Wrestling - 281B](https://codeforces.com/contest/493/problem/B)
+  - solved [Vasya & Wrestling - 281B](https://codeforces.com/contest/493/problem/B) . Tips: Use else-if instead of multiple if.
 
 
 ### R1D2
