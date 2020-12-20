@@ -13,3 +13,4 @@ Round 1
 
 
 ### R1D2
+ - solved [Recurssive Recuurence] (https://www.spoj.com/problems/SEQ/) . Source : Matrix Exponentiation , Fast Exponentiation , Multiple use of function;
