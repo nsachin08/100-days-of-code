@@ -15,3 +15,7 @@ Round 1
 ### R1D2
  - solved [Recurssive Recuurence] (https://www.spoj.com/problems/SEQ/) . Source : Matrix Exponentiation , Fast Exponentiation , Multiple use of function;
  - solved [Divisible Subset] (https://www.codechef.com/problems/DIVSUBS) . Tips: Using Pigeonhole Principle
+
+
+### R1D3
+  - Solved [Fair Numbers] (https://codeforces.com/contest/1465/problem/B) . Tips: Time limit doesn't only depends on constraints. It can be partially dependent on it.
