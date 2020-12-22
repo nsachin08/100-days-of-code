@@ -21,3 +21,4 @@ Round 1
   - Solved [Fair Numbers] (https://codeforces.com/contest/1465/problem/B) . Tips: Time limit doesn't only depends on constraints. It can be partially dependent on it.
 ### R1D4
   ## "Observe for other test cases" .
+  - Solved [The Fibonacci Segment] (https://codeforces.com/problemset/problem/365/B) , Tips: temporary counter , real asnwer.
