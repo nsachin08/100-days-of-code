@@ -22,3 +22,4 @@ Round 1
 ### R1D4
   ## "Observe for other test cases" .
   - Solved [The Fibonacci Segment] (https://codeforces.com/problemset/problem/365/B) , Tips: temporary counter , real asnwer.
+  - Learned About the CONVEX HULL.
