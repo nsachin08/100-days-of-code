@@ -19,3 +19,5 @@ Round 1
 
 ### R1D3
   - Solved [Fair Numbers] (https://codeforces.com/contest/1465/problem/B) . Tips: Time limit doesn't only depends on constraints. It can be partially dependent on it.
+### R1D4
+  ## "Observe for other test cases" .
