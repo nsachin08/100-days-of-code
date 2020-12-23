@@ -24,3 +24,6 @@ Round 1
   - Solved [The Fibonacci Segment] (https://codeforces.com/problemset/problem/365/B) , Tips: temporary counter , real asnwer.
   - Learned About the CONVEX HULL.
   - Solved PROJECT EULER prolem-4
+### R1D5 
+  - Solved 6 eay problems based on trees.
+  - Created a Front-end-webpage (coded along with).
