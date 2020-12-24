@@ -28,3 +28,7 @@ Round 1
   - Solved 6 eay problems based on trees.
   - Created a Front-end-webpage (coded along with).
   - Solved 1 question from Project Euler
+### R1D5 
+  - solved 4 questions based on trees;
+  - Created a Front-end webpage( coded along with);
+  
