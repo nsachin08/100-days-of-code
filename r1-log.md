@@ -32,4 +32,7 @@ Round 1
   - solved 4 questions based on trees;
   - Created a Front-end webpage( coded along with);
   - Learnt About Seaborn.
+  - Solved 2 questions from codeforces
+  - solved 1 question form Projet euler.
+  
   
