@@ -34,5 +34,9 @@ Round 1
   - Learnt About Seaborn.
   - Solved 2 questions from codeforces
   - solved 1 question form Projet euler.
+### R1D7
+  - Solved 4 question based on trees.
+  - Learnt about Pandas.
+  
   
   
